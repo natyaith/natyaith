@@ -1,14 +1,7 @@
- <h1 align="left">Natália A.</h1>
-  <a href="https://www.linkedin.com/in/natalia-a-809153125/">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+ <h1 align="left">Natália A.<a href="https://www.linkedin.com/in/natalia-a-809153125/">
+    <img width="50px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
-</div>
-
-
-</br>
-</br>
-
-## Olá!!
+ </h1>
 
 Tenho 34 anos, sou de São Paulo, atualmente moro em Cabo Frio/RJ, mas logo estarei de volta à capital paulista.
 Depois de ter feito 2 graduações (em Administração e em Veterinária), me descobri apaixonada por programação (principalmente Front-end). 
