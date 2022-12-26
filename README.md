@@ -4,8 +4,8 @@
  </h1>
 
 Tenho 34 anos, sou de São Paulo, atualmente moro em Cabo Frio/RJ, mas logo estarei de volta à capital paulista.
-Depois de ter feito 2 graduações (em Administração e em Veterinária), me descobri apaixonada por programação (principalmente Front-end). 
-Sou iniciante nesse universo dos códigos e adoro criar projetos do mundo dos pets.  ❤
+Depois de ter feito 2 graduações (em Administração e em Veterinária), me descobri apaixonada por Front-end. 
+Estou avançando nesse universo dos códigos e adoro criar projetos do mundo dos pets.  ❤
 
 📫 Você pode pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
