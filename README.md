@@ -9,7 +9,7 @@ Depois de ter feito 2 graduações (em Administração e em Veterinária), me de
 <br />
 <br/>
 Estou avançando nesse universo dos códigos e adoro criar projetos do mundo dos pets.  ❤<br />
-📫 Você pode pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui no repositório. =)
 
 </br>
 
