@@ -3,17 +3,17 @@
   </a>
  </h1>
 
-Tenho 34 anos e sou de São Paulo/SP. Depois de ter feito 2 graduações (em Administração e em Veterinária), me descobri apaixonada por Front-end. 
+Tenho 34 anos e sou de São Paulo/SP. <br />
+Depois de ter feito 2 graduações (em Administração e em Veterinária), me descobri apaixonada por Front-end. 
 <br />
 <br/>
-Estou avançando nesse universo dos códigos e adoro criar projetos do mundo dos pets.  ❤<br />
 📫 Você pode pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui no repositório. =)
 
 </br>
 
 
 
-<p align="center">
+<p>
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
