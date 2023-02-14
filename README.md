@@ -1,5 +1,5 @@
  <img src="https://user-images.githubusercontent.com/61480327/218276591-4224e3a7-bf8c-427c-aea6-89d4e75f1a7e.png">
-<p align="center">Tenho 34 anos e sou de São Paulo/SP. <br />
+<p align="center">Sou de São Paulo/SP. <br />
 Depois de ter feito 2 graduações (em Administração e em Veterinária), me descobri apaixonada por Front-end. 
 <br />
 Você pode pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui no repositório.
