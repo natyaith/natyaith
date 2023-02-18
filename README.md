@@ -1,12 +1,11 @@
  <img src="https://user-images.githubusercontent.com/61480327/218276591-4224e3a7-bf8c-427c-aea6-89d4e75f1a7e.png">
 <p align="center">
-Depois de ter feito 2 graduações (em Administração e em Veterinária), me descobri apaixonada por Front-end. 
+Olá! Meu nome é Natália!<br/>
+Sou formada em Administração e em Veterinária, mas quando me descobri apaixonada por Front-end, entrei de vez nesse mundo de códigos! 
 <br />
-Você pode pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui no repositório.
+Você pode pode conhecer meus projetos já desenvolvidos, disponíveis aqui no repositório.
 </br>
 </br>
-
-
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
