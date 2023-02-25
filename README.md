@@ -1,7 +1,7 @@
  <img src="https://user-images.githubusercontent.com/61480327/218276591-4224e3a7-bf8c-427c-aea6-89d4e75f1a7e.png">
 <p align="center">
 Olá! Meu nome é Natália!<br/>
-Sou formada em Administração e em Veterinária, mas quando me descobri apaixonada por Front-end, entrei de vez nesse mundo de códigos! 
+Sou formada em Administração e em Veterinária, mas me descobri apaixonada por Front-end e entrei de vez nesse mundo de códigos! 
 <br />
 Você pode pode conhecer meus projetos já desenvolvidos, disponíveis aqui no repositório.
 </br>
