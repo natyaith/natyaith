@@ -1,5 +1,5 @@
 <p align="center">
-<img width="10%" src="https://user-images.githubusercontent.com/61480327/229326727-ee538310-a562-466d-b1a0-a22e7e065d84.png">
+<img width="100vw" src="https://user-images.githubusercontent.com/61480327/229326727-ee538310-a562-466d-b1a0-a22e7e065d84.png">
 </p>
 <p align="center">Olá! Meu nome é Natália!<br/>
 Sou formada em Administração e em Veterinária, mas me descobri apaixonada por Front-end e entrei de vez nesse mundo de códigos! 
