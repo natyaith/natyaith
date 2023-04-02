@@ -1,28 +1,19 @@
- <img src="https://user-images.githubusercontent.com/61480327/218276591-4224e3a7-bf8c-427c-aea6-89d4e75f1a7e.png">
 <p align="center">
-Olá! Meu nome é Natália!<br/>
+<img width="10%" src="https://user-images.githubusercontent.com/61480327/229326727-ee538310-a562-466d-b1a0-a22e7e065d84.png">
+</p>
+<p align="center">Olá! Meu nome é Natália!<br/>
 Sou formada em Administração e em Veterinária, mas me descobri apaixonada por Front-end e entrei de vez nesse mundo de códigos! 
 <br />
 Você pode pode conhecer meus projetos já desenvolvidos, disponíveis aqui no repositório.
-</br>
-</br>
-
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
-
 <section align="center">
-<h1 font-weight="bold"> 🖥️ Tecnologias e Ferramentas:</h1></br> 
+<h2 font-weight="bold"> 🖥️ Tecnologias e Ferramentas:</h2></br> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title = "BOOTSTRAP"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title = "SASS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-
-          
-          
-          
 </br>
 </br>
 
