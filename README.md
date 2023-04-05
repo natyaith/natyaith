@@ -1,4 +1,6 @@
-<img align="center" src="https://user-images.githubusercontent.com/61480327/229664862-3f6d4000-97c6-44c0-8082-3d243f04074d.png">
+<p align="center">
+<img width="95%" src="https://user-images.githubusercontent.com/61480327/229664862-3f6d4000-97c6-44c0-8082-3d243f04074d.png">
+</p>
 
 <p align="center">Olá! Meu nome é Natália!<br/> 
 Sou formada em Administração e em Veterinária, mas me descobri apaixonada por Front-end e entrei de vez nesse mundo de códigos! 
