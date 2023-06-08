@@ -1,5 +1,5 @@
 <p align="center">Olá! Meu nome é Natália!<br/> 
-Sou formada em Administração e em Veterinária, mas me descobri apaixonada por Front-end e entrei de vez nesse mundo de códigos! 
+Entrei de vez nesse mundo dos códigos e me descobri apaixonada por Front-end.
 <br />
 Você pode pode conhecer meus projetos aqui no repositório.
 </p>
