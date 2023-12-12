@@ -4,7 +4,7 @@
 Sou graduanda em Ciência de Dados na Universidade Presbiteriana Mackenzie, com experiência em resolução de problemas e gerenciamento de projetos.
 
 <br />
-Você pode poderá conhecer meus projetos aqui no repositório.
+Em breve, você poderá conhecer meus projetos em Ciência de Dados aqui no repositório.
 </p>
 <section align="center">
 <h3 font-weight="bold"> 🖥️ Tecnologias e Ferramentas:</h3>
